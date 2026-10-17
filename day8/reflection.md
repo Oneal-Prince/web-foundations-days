@@ -1,0 +1,9 @@
+# Day 8 Reflection
+
+The most difficult concept in this course was understanding how a web application handles many requests at the same time while keeping its data correct. At first, I mainly focused on what users could see on a webpage and how HTML, CSS, and JavaScript work together. Designing TicketHub helped me understand that backend systems must also manage database transactions, API requests, and concurrent users. I overcame this challenge by breaking the problem into smaller steps, studying how transactions and database constraints work, and applying those ideas to the example of two customers trying to buy the same seat.
+
+Based on the feedback and lessons from my capstone, I would improve the user experience by making the interface more responsive, improving form validation and error messages, and ensuring that users always understand what is happening when they interact with the application. I would also pay more attention to accessibility and testing different screen sizes. These improvements would make the project easier to use and more reliable.
+
+Next, I want to learn more about backend development, SQL, database transactions, and REST API design. I also want to improve my React skills and learn how to connect a frontend application to a backend securely. Finally, I plan to practise testing and deployment so that I can build applications that are not only visually appealing but also reliable, secure, and ready for real users.
+
+This assignment has helped me see that good web development requires balancing user experience, performance, fairness, and data correctness. I want to continue building projects that apply these principles in practical situations.
